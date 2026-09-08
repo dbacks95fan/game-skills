@@ -1,0 +1,6 @@
+interface:
+  display_name: "Western Legends Table Assistant"
+  short_description: "Fast official rulings for every expansion"
+  default_prompt: "Use $western-legends-table-assistant to rule on this Western Legends situation: [describe the board state or attach a photo]."
+policy:
+  allow_implicit_invocation: true
