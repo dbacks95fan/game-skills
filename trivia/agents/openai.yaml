@@ -1,0 +1,6 @@
+interface:
+  display_name: "Trivia Monitor"
+  short_description: "Text-first answers for spoken trivia"
+  default_prompt: "Use $trivia-monitor in an active voice chat; answer clear trivia questions in text, or say 'Trivia check' for an immediate answer."
+policy:
+  allow_implicit_invocation: true
